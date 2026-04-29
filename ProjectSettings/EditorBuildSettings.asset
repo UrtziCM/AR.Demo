@@ -11,6 +11,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/UrtziCMendizabal/Scenes/Main.unity
     guid: cf5f5a7a9989efb4a8cb935774adc90b
+  - enabled: 1
+    path: Assets/UrtziCMendizabal/Scenes/Start.unity
+    guid: d38b717dfd806bf4e8d28702ee33bf05
+  - enabled: 1
+    path: Assets/UrtziCMendizabal/Scenes/Image.unity
+    guid: 5a91d3dea049e264eaba7184fa366030
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 44d6534f056ed5b4eac4ea205f642559, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
